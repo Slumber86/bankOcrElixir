@@ -1,0 +1,2 @@
+defmodule BankOCRKata do
+end
